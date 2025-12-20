@@ -2,3 +2,6 @@
 
 __pycache__
 dev_data
+images
+venv
+.DS_Store
